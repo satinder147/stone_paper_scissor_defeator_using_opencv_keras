@@ -48,4 +48,4 @@ Congratulations you just made your very own MAN defeating machine.<br>
 Give the repository a star if you really liked  it.<br>
 if you have any doubts, you can comment them under my youtube video or you can post your doubts on my facebook page 
 <a href="https://www.facebook.com/reactorscience/">REACTOR SCIENCE</a>
-
+<br> 
